@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DemoApp</string>
     <string name="second_page_text">Hello, Second Page!</string>
+    <string name="third_page_text">Hello, Third Page!</string>
 </resources> 
